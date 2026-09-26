@@ -59,7 +59,7 @@
     <div class="login-box">
         <h2>Login</h2>
 
-        <form>
+        <form action="home.php">
             <input type="text" placeholder="Username" required>
 
             <input type="password" placeholder="Password" required>
